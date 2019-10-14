@@ -1,3 +1,7 @@
+# whoami
+
+## Hey, I'm Anosh and it looks like you're about to work with me, here's what you probably want to know
+
 ### Conditions I like to work in:
 
 - As long as I'm able to charge my laptop and connect to the internet, I'm flexible. I have no preference yet.
